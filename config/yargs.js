@@ -26,8 +26,11 @@ const argv = yargs
     })
     .check((argv,options)=>{
 
-        if(isNaN(argv.b)){
-            throw 'La base tiene que ser un número.'
+        if(isNaN(argv.b) || argv.b<=0){
+            throw 'La base tiene que ser un número mayor que 0.'
+        }
+        if(isNaN(argv.h)|| argv.h<=0){
+            throw 'El hasta tiene que ser un número mayor que 0.'
         }
 
         return true;
