@@ -4,10 +4,10 @@
 <br>
 
 
-## :1234: Obtener un archivo con tablas de multiplicar / Get a file with multiplication tables
+## :1234: Get a file with multiplication tables / Obtener un archivo con tablas de multiplicar
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/pauladanielafarias/archivo-tablas-multiplicar?style=flat&logo=github">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pauladanielafarias/archivo-tablas-multiplicar">
 
-Genera un archivo desde la terminal que contiene la tabla de multiplicar de una base hasta un número dado, determinados por el usuario. / Generates a file from the terminal that contains the multiplication table from a base to a given number, determined by the user.
+Generates a file from the terminal that contains the multiplication table from a base to a given number, determined by the user. / Genera un archivo desde la terminal que contiene la tabla de multiplicar de una base hasta un número dado, determinados por el usuario.
 
 
 ### :computer: Technologies / Tecnologías utilizadas: <img align="center" alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/pauladanielafarias/archivo-tablas-multiplicar/master?&logo=codefactor&logoColor=green"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/pauladanielafarias/archivo-tablas-multiplicar">  <img alt="GitHub top language" align="center" src="https://img.shields.io/github/languages/top/pauladanielafarias/archivo-tablas-multiplicar">
